@@ -1,0 +1,501 @@
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    max-width: 100%;
+    max-height: fit-content;
+}
+.section1{
+    position: relative;
+    max-width: 100%;
+    height: 130px;
+    font-size: 13px;
+    font-family: sans-serif;
+    font-weight: 600;
+    letter-spacing: 2px;
+    background-color: white;
+}
+.menu{
+    position: absolute;
+    top: 55px;
+    left: 290px;
+}
+.family{
+    position: absolute;
+    top: 55px;
+    left: 380px;
+    max-width: 200px;
+}
+.about{
+    position: absolute;
+    top: 55px;
+    left: 530px;
+}
+.retail{
+    position: absolute;
+    top: 55px;
+    left: 900px;
+}
+.order{
+    position: absolute;
+    top: 55px;
+    left: 1000px;
+}
+.banner{
+    position: absolute;
+    top: 30px;
+    left: 650px;
+}
+.sizing{
+    width: 200px;
+    height: 60px;
+}
+.menu a{
+    color: #a57629;
+    text-decoration: none;
+}
+.menu a:hover{
+    color: #864c0d;
+    text-decoration: none;
+}
+.family a{
+    color: #a57629;
+    text-decoration: none;
+}
+.family a:hover{
+    color: #864c0d;
+    text-decoration: none;
+}
+.about a{
+    color: #a57629;
+    text-decoration: none;
+}
+.about a:hover{
+    color: #864c0d;
+    text-decoration: none;
+}
+.retail a{
+    color: #a57629;
+    text-decoration: none;
+}
+.retail a:hover{
+    color: #864c0d;
+    text-decoration: none;
+}
+.order a{
+    color: #a57629;
+    text-decoration: none;
+}
+.order a:hover{
+    color: #864c0d;
+    text-decoration: none;
+}
+.section2{
+    position: relative;
+    height: 600px;
+    background-image: url(./images/SBROWN-BHUNA-WEB-3016.jpg);
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: cover;
+}
+.section3{
+    position: relative;
+    height: 1450px;
+}
+.image1{
+    position: absolute;
+    top: 80px;
+    left: 280px;
+}
+.imageheight{
+    width: 990px;
+    height: 600px;
+}
+
+.platefood{
+    position: absolute;
+    top: 780px;
+    left: 280px;
+}
+.food{
+    width: 990px;
+    height: 550px;
+}
+.section4{
+    position: relative;
+    height: 1200px;
+    max-width: 100%;
+}
+.image2{
+    position: absolute;
+    top: 100px;
+    left: 280px;
+}
+.drinks{
+    width: 990px;
+    height: 600px;
+}
+.fdrink{
+    position: absolute;
+    top: 750px;
+    left: 280px;
+    
+}
+.sdrink{
+    position: absolute;
+    top: 750px;
+    left: 540px;
+    
+}
+.tdrink{
+    position: absolute;
+    top: 750px;
+    left: 800px;
+}
+.ldrink{
+    position: absolute;
+    top: 750px;
+    left: 1060px;
+}
+.sizes{
+    width: 238px;
+    height: 357px;
+}
+.section5{
+    position: relative;
+    height: 850px;
+    background-color: #f5f5f5;
+}
+.head1{
+    position: absolute;
+    top: 100px;
+    left: 690px;
+    color: #41a1b5;
+    font-weight: bold;
+    font-size: 29px;
+    letter-spacing: 0.2px;
+}
+.head2{
+    position: absolute;
+    top: 150px;
+    left: 280px;
+    color: #9b4521;
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: 1.2px;
+}
+.head3{
+    position: absolute;
+    top: 200px;
+    left: 695px;
+    color: #9b4521;
+    font-weight: bold;
+    letter-spacing: 1.2px;
+    font-size: 22px;
+}
+.head4{
+    position: absolute;
+    top: 250px;
+    left: 280px;
+    color: #9b4521;
+    font-size: 22px;
+    letter-spacing: 1.2px;
+    font-weight: bold;
+}
+.head4content{
+    position: absolute;
+    top: 300px;
+    left: 280px;
+    line-height: 50px;
+    max-width: 300px;
+    color: #4d4d4f;
+    font-size: 19px;
+    letter-spacing: .4px;
+    font-weight: bold;
+
+}
+.head5{
+    position: absolute;
+    top: 250px;
+    left: 655px;
+    color: #9b4521;
+    font-size: 22px;
+    letter-spacing: 1.2px;
+    font-weight: bold;
+}
+.head5content{
+    position: absolute;
+    top: 300px;
+    left: 655px;
+    color: #4d4d4f;
+    font-size: 19px;
+    max-width: 300px;
+    line-height: 50px;
+    letter-spacing: .4px;
+    font-weight: bold;
+}
+.head6{
+    position: absolute;
+    top: 250px;
+    left: 1000px;
+    color: #9b4521;
+    font-size: 22px;
+    letter-spacing: 1.2px;
+    font-weight: bold;
+}
+.head6content{
+    position: absolute;
+    top: 300px;
+    left: 1000px;
+    color: #4d4d4f;
+    font-size: 19px;
+    max-width: 300px;
+    line-height: 50px;
+    letter-spacing: .4px;
+    font-weight: bold;
+}
+.section6{
+    position: relative;
+    height: 600px;
+    width: 100%;
+}
+.head7{
+    position: absolute;
+    top: 100px;
+    left: 650px;
+    font-size: 29px;
+    color: #41a1b5;
+    font-weight: bold;
+}
+.head8{
+    position: absolute;
+    top: 150px;
+    left: 510px;
+    font-size: 19px;
+    font-weight: bold;
+    color: #4d4d4f;
+    letter-spacing: .4px;
+}
+.head9{
+    position: absolute;
+    top: 230px;
+    left: 681px;
+}
+.head9content{
+    width: 250px;
+    height: 60px;
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    text-align: center;
+    font-weight: bold;
+}
+.head9content:hover{
+    background-color: black;
+    color: white;
+}
+.head10{
+    position: absolute;
+    top: 315px;
+    left: 700px;
+}
+.head10content{
+    width: 220px;
+    height: 60px;
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    text-align: center;
+    font-weight: bold;
+}
+.head10content:hover{
+    background-color: black;
+    color: white;
+}
+.head11{
+    position: absolute;
+    top: 400px;
+    left: 722px;
+}
+.head11content{
+    width: 170px;
+    height: 60px;
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    text-align: center;
+    font-weight: bold;
+}
+.head11content:hover{
+    background-color: black;
+    color: white;
+}
+.section7{
+    position: relative;
+    height: 300px;
+    background-color:#f5f5f5;
+}
+.cater{
+    position: absolute;
+    top: 100px;
+    left: 555px;
+    color: #41a1b5;
+    font-size: 29px;
+    font-weight: bold;
+}
+.email1{
+    position: absolute;
+    top: 170px;
+    left: 690px;
+    font-size: 19px;
+    font-weight: 300;
+    color: #a5762a;
+}
+.section8{
+    position: relative;
+    height: 500px;
+}
+.parent{
+    position: relative;
+    max-width: 800px;
+    height: 300px;
+    top: 100px;
+    left: 380px;
+    text-align: center;
+    background-color: #f5f5f5;  
+}
+.sign{
+    position: absolute;
+    top: 30px;
+    left: 250px;
+    font-size: 30px;
+    letter-spacing: 1.03px;
+    color: #272727;
+
+}
+.form{
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    
+}
+#fname{
+    width: 220px;
+    height:50px ;
+    padding-left: 20px;
+    border: 1px solid rgba(0,0,0,.12);
+    outline: none;
+}
+#sname{
+    width: 220px;
+    height: 50px;
+    padding-left: 20px;
+    border: 1px solid rgba(0,0,0,.12);
+    outline: none;
+}
+#email{
+    width: 220px;
+    height: 50px;
+    padding-left: 20px;
+    border: 1px solid rgba(0,0,0,.12);
+    outline: none;
+}
+.button2{
+    width: 100px;
+    height: 50px;
+    color: white;
+    background-color: #272727;
+    border-radius: 20px;
+    outline: none;
+}
+.button2:hover{
+    background-color: #4f4f4f;
+}
+.privacy{
+    position: absolute;
+    top: 280px;
+    left: 180px;
+    font-size: 12px;
+}
+.section9{
+    position: relative;
+    height: 700px;
+    background-color:#f5f5f5;
+}
+.abouthim{
+    position: absolute;
+    top: 50px;
+    left: 725px;
+    font-size: 29px;
+    color: #41a1b5;
+    font-weight: 700;
+}
+.image3{
+    position: absolute;
+    top: 110px;
+    left: 460px;
+}
+.image3 img{
+    height: 400px;
+}
+.hisname{
+    position: absolute;
+    top: 105px;
+    left: 810px;
+    font-size: 22px;
+    color: #9b4521;
+    font-weight: 400;   
+}
+.description{
+    position: absolute;
+    top: 160px;
+    left: 810px;
+    font-weight: 50;
+    font-size: 18px;
+    max-width: 400px;
+    line-height: 30px;
+}
+.section10{
+    position: relative;
+    height: 1100px;
+    background-color: #41a1b5;
+
+}
+.icon1{
+    position: absolute;
+    top: 100px;
+    left: 730px;
+    font-size: 30px;
+}
+.icon2{
+    position: absolute;
+    top: 100px;
+    left: 800px;
+    font-size: 30px;
+}
+.address{
+    position: absolute;
+    top: 180px;
+    left: 350px;
+    font-size: 18px;
+    color: #ffffff;
+    letter-spacing: 2px;
+}
+.dine{
+    position: absolute;
+    top: 400px;
+    left: 630px;
+    color: #ffffff;
+    letter-spacing: 2px;
+    font-size: 17px;
+}
+.time{
+    position: absolute;
+    top: 700px;
+    left: 640px;
+    text-align: center;
+    color: #ffffff;
+    letter-spacing: 2px;
+    font-size: 17px;
+}
